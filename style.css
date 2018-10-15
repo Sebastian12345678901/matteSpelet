@@ -1,0 +1,41 @@
+body {
+    background-image: url("bilder/matteKladd.jpg");
+    color: midnightblue;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+div {
+    background-color: hsla(0, 18%, 97%, 0.801);
+    border: 10px ridge midnightblue;
+    border-radius: 20px;
+    margin: 10% 25% 10% 25%;
+    padding: 3%;
+}
+
+#firstButton {
+    background-color: hsla(0, 18%, 97%, 0.801);
+    border: 3px ridge midnightblue;
+    border-radius: 5px;
+    margin: 1%;
+}
+
+#svar {
+    /* background-color: hsla(0, 18%, 97%, 0.801); */
+    border: 3px ridge midnightblue;
+    border-radius: 5px;
+    margin: 0%;
+}
+
+#problem {
+    font-size: 200%;
+}
+
+.meny {
+    background-color: hsla(0, 18%, 97%, 0.801);
+    border: 3px ridge midnightblue;
+    border-radius: 5px;
+    margin: 1% 0% 1% 0%;
+    font-family: "Comic Sans MS";
+    color: midnightblue;
+}
